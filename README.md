@@ -8,5 +8,5 @@ The target solution is to create a database-powered portal with the following cr
 3. Allow clients to browse and perform queries on the data through an app portal.
 4. Provide facilities for matching customers and service providers.
 
-## Developed by:
+#### Developed by:
 * Dyuwan Shukla
